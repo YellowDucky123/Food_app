@@ -7,8 +7,8 @@ export default function Dashboard() {
     { id: 1, location: 'Alam Sutera', db_name: ["Alsut"], picked: false },
     { id: 2, location: 'Gading Serpong', db_name: ["GS"], picked: false },
     { id: 3, location: 'BSD', db_name: ["BSD"], picked: false },
-	{ id: 4, location: 'Bandung', db_name: ["Bandung"], picked: false },
-	{ id: 5, location: 'PIK', db_name: ["PIK"], picked: false },
+	{ id: 4, location: 'PIK', db_name: ["PIK"], picked: false },
+	// { id: 5, location: 'Bandung', db_name: ["Bandung"], picked: false },
   ])
 
   const toggleTask = (id: number) => {
