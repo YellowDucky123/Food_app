@@ -9,7 +9,7 @@ const supabase = createClient(
 
 export default function FoodsPage() {	
   const { locations } = useParams();
-  const [foods, setFoods] = useState([]); // Store your results here
+  const [foods, setFoods] = useState<any[]>([]); // Store your results here
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 

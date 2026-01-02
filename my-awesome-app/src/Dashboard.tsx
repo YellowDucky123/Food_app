@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { createClient } from '@supabase/supabase-js'
 import { Checkbox } from "./components/base/checkbox/checkbox";
 import { useNavigate } from "react-router-dom";
@@ -7,14 +7,6 @@ const supabase = createClient(
   import.meta.env.VITE_SUPABASE_URL,
   import.meta.env.VITE_SUPABASE_ANON_KEY
 )
-
-const get_food = async (locations) => {
-   const { data, error } = await supabase.functions.invoke('get-food', {
-      body: { locations },
-   });
-
-   return data;
-}
 
 export default function Dashboard() {
   const [dbStatus, setDbStatus] = useState('Idle')
