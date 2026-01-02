@@ -68,8 +68,8 @@ export default function FoodsPage() {
               </div>
               
               <div className="space-y-2 text-slate-400 text-sm">
-                <p>📍 {item.Location || 'Address not listed'}</p>
-                <p>⭐ {item.Rating || 'No rating'}</p>
+                <p>📍 {item.Landmark || 'Landmark not listed'}</p>
+                <p>⭐ {item.Category|| 'No Category'}</p>
               </div>
 
               <button className="mt-4 w-full py-2 bg-slate-800 hover:bg-blue-600 rounded-lg text-sm font-medium transition-colors">
