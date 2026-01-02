@@ -1,6 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { createClient } from '@supabase/supabase-js'
+import Loader from './Loader'; // Adjust path as needed
 
 const supabase = createClient(
   import.meta.env.VITE_SUPABASE_URL,
@@ -33,21 +34,9 @@ export default function FoodsPage() {
   }, [locations]);
 
   if (loading) return (
-  		<div className="mx-auto w-full max-w-sm rounded-md border border-blue-300 p-4">
-		  <div className="flex animate-pulse space-x-4">
-			<div className="size-10 rounded-full bg-gray-200"></div>
-			<div className="flex-1 space-y-6 py-1">
-			  <div className="h-2 rounded bg-gray-200"></div>
-			  <div className="space-y-3">
-				<div className="grid grid-cols-3 gap-4">
-				  <div className="col-span-2 h-2 rounded bg-gray-200"></div>
-				  <div className="col-span-1 h-2 rounded bg-gray-200"></div>
-				</div>
-				<div className="h-2 rounded bg-gray-200"></div>
-			  </div>
-			</div>
-		  </div>
-		</div>
+  <div className="flex h-screen w-full items-center justify-center bg-slate-950">
+      <Loader />
+  </div>
   );
 
   return (
