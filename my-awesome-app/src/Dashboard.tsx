@@ -1,12 +1,6 @@
 import { useState } from 'react'
-import { createClient } from '@supabase/supabase-js'
 import { Checkbox } from "./components/base/checkbox/checkbox";
 import { useNavigate } from "react-router-dom";
-
-const supabase = createClient(
-  import.meta.env.VITE_SUPABASE_URL,
-  import.meta.env.VITE_SUPABASE_ANON_KEY
-)
 
 export default function Dashboard() {
   const [dbStatus, setDbStatus] = useState('Idle')
