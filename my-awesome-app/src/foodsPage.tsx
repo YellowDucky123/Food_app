@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { createClient } from '@supabase/supabase-js'
-import Loader from './Loader'; // Adjust path as needed
+import Loader from './Loading'; // Adjust path as needed
 
 const supabase = createClient(
   import.meta.env.VITE_SUPABASE_URL,
