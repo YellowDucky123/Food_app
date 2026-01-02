@@ -32,7 +32,13 @@ export default function FoodsPage() {
     fetchFoods();
   }, [locations]);
 
-  if (loading) return <div className="p-10 text-white">Searching for the best food...</div>;
+  if (loading) return (
+	  <div className="min-h-screen bg-slate-950 p-8 text-white">
+		  <div 
+  			className="p-10 text-white">Searching for the best food...
+		  </div>
+	  </div>
+  );
 
   return (
     <div className="min-h-screen bg-slate-950 p-8 text-white">
