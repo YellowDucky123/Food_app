@@ -4,9 +4,11 @@ import { useNavigate } from "react-router-dom";
 
 export default function Dashboard() {
   const [tasks, setTasks] = useState([
-    { id: 1, location: 'Alam Sutera', db_name: "Alsut", picked: false },
-    { id: 2, location: 'Gading Serpong', db_name: "GS", picked: false },
-    { id: 3, location: 'BSD', db_name: "BSD", picked: false },
+    { id: 1, location: 'Alam Sutera', db_name: ["Alsut"], picked: false },
+    { id: 2, location: 'Gading Serpong', db_name: ["GS"], picked: false },
+    { id: 3, location: 'BSD', db_name: ["BSD"], picked: false },
+	{ id: 4, location: 'Bandung', db_name: ["Bandung"], picked: false },
+	{ id: 5, location: 'PIK', db_name: ["PIK"], picked: false },
   ])
 
   const toggleTask = (id: number) => {
@@ -47,6 +49,7 @@ export default function Dashboard() {
 				const selectedLocations = tasks
 					.filter(task => task.picked)
 					.map(task => task.db_name)
+					.flat(1);
 				
 				if (selectedLocations.length > 0) {
 					get_foods(selectedLocations);
