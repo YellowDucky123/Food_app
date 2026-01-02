@@ -35,7 +35,9 @@ export default function FoodsPage() {
 
   if (loading) return (
   <div className="flex h-screen w-full items-center justify-center bg-slate-950">
-      <Loader />
+      <div className="bg-white p-12 rounded-2xl shadow-2xl flex flex-col items-center">
+        <Loader />
+      </div>
   </div>
   );
 
