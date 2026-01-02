@@ -1,0 +1,6 @@
+@import "tailwindcss"; /* This is the new v4 way */
+
+/* Or if you are sticking with the v3 style directives: */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
