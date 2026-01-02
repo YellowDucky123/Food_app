@@ -3,7 +3,6 @@ import { Checkbox } from "./components/base/checkbox/checkbox";
 import { useNavigate } from "react-router-dom";
 
 export default function Dashboard() {
-  const [dbStatus, setDbStatus] = useState('Idle')
   const [tasks, setTasks] = useState([
     { id: 1, location: 'Alam Sutera', db_name: "Alsut", picked: false },
     { id: 2, location: 'Gading Serpong', db_name: "GS", picked: false },
@@ -15,7 +14,7 @@ export default function Dashboard() {
   }
 
   const navigate = useNavigate();
-  const get_foods = async (locations) => {
+  const get_foods = async (locations: string[]) => {
   	navigate(`/foods/${locations}`);
   }
 
