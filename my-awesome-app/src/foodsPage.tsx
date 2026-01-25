@@ -81,7 +81,7 @@ export default function FoodsPage() {
 
               <button 
 				 onClick={() => {
-					query = item.Area + item.Landmark + item.Name;
+					let query = item.Area + item.Landmark + item.Name;
 					window.open(`/search?q=${encodeURIComponent(query)}`, '_blank');	
 				 }}
 			  className="mt-4 w-full py-2 bg-slate-800 hover:bg-blue-600 rounded-lg text-sm font-medium transition-colors"
