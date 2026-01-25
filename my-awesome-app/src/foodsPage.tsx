@@ -79,7 +79,13 @@ export default function FoodsPage() {
                 <p>⭐ {item.Category|| 'No Category'}</p>
               </div>
 
-              <button className="mt-4 w-full py-2 bg-slate-800 hover:bg-blue-600 rounded-lg text-sm font-medium transition-colors">
+              <button 
+				 onClick={() => {
+					query = item.Area + item.Landmark + item.Name;
+					window.open(`/search?q=${encodeURIComponent(query)}`, '_blank');	
+				 }}
+			  className="mt-4 w-full py-2 bg-slate-800 hover:bg-blue-600 rounded-lg text-sm font-medium transition-colors"
+			  >
                 View Details
               </button>
             </div>
