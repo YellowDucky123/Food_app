@@ -4,12 +4,12 @@ import { useNavigate } from "react-router-dom";
 
 export default function Dashboard() {
   const [tasks, setTasks] = useState([
+	{ id: 5, location: 'Sydney', db_name: ["Sydney"], picked: false },
+	{ id: 6, location: 'SG', db_name: ["SG", "Sg"], picked: false },
     { id: 1, location: 'Alam Sutera', db_name: ["Alsut"], picked: false },
     { id: 2, location: 'Gading Serpong', db_name: ["GS"], picked: false },
     { id: 3, location: 'BSD', db_name: ["BSD"], picked: false },
 	{ id: 4, location: 'PIK', db_name: ["PIK"], picked: false },
-	{ id: 5, location: 'Sydney', db_name: ["Sydney"], picked: false },
-	{ id: 6, location: 'SG', db_name: ["SG", "Sg"], picked: false },
 	// { id: 5, location: 'Bandung', db_name: ["Bandung"], picked: false },
   ])
 
