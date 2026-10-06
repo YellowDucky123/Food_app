@@ -1,1 +1,5087 @@
-[]
+[
+  {
+    "Name": "Warteg berisik (1G)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "1G",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Liang bakuteh (ruko arcadia)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "7C",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The rampai n kingkong banana (paramount 7cs)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "7C",
+    "Category": "Snack",
+    "Online": "Yes",
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Madam vie prasmanan porky",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "7c",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung ce (7c or goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "7C or Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Panella de chao brazillian bbq (aeon)",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Aeon",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pho ba ba (aeon)",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Aeon",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Angke",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Angke",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi garing awei 88 (aniva)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": "Bfast",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi liong lie bangka",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakpau sun (warteg)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ta Chia",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Okinawa sushi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Asoka BLVD",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Commongrounds café (auraya suites)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Auraya , next to yukata",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Akang",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Akiaw",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Asoka",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bornga",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Korean BBQ"
+  },
+  {
+    "Name": "Gerobak Betawi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD",
+    "Category": "Bfast lunch dinner",
+    "Online": null,
+    "Signaturemenu": "Soto betawi,  indonesian food"
+  },
+  {
+    "Name": "Hai Thien",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wing Heng",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD kurnia",
+    "Category": "Bfast lunch dinner",
+    "Online": null,
+    "Signaturemenu": "Dimsum"
+  },
+  {
+    "Name": "Fong Sheng",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "BLVD SMS",
+    "Category": "Bfast Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Dimsum"
+  },
+  {
+    "Name": "Clumsis café (near bsteak)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Bsteak",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bariuma ramen",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Cartens",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Ramen"
+  },
+  {
+    "Name": "Livingstone (cartenz)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Cartens",
+    "Category": "Lunch Dinner Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rumah koffie (cartens)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Cartens",
+    "Category": "Lunch Dinner Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kaijin suisan - ayce wagyu nabe ",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Concourse ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nihewo kopitiam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Darwin",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ichisan ramen",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "DEC area",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Balboni pizza (below cut n grill)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Flav bliss",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cut n grill",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Flav bliss",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dec café",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Gedung bubun",
+    "Category": "Bfast coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "C to coffee (gky)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "GKY",
+    "Category": "0",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sema Coffee (gky)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "GKY",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Monokuro",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Golden 8 bsteak",
+    "Category": "Japanese",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Deem saam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Bfast Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Frucoco (gofood)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Dessert Drink",
+    "Online": "Yes",
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Fu palace (hakka resto goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hogwild",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kanton qiu nyuk (goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kupi plus roti (maggiore goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Bfast lunch coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Laksamalaybyardor (goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Lunch Dinner Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Larb Thai",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Noolstrala (goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Bfast lunch coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Otak2 ase (bangka) goldfinch",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Snack",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung buntut babe ace (goldfinch)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lim Kok Tong",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": "Bfast lunch dinner Snack coffee",
+    "Online": null,
+    "Signaturemenu": "Soto, Uyen, tahu, pisang"
+  },
+  {
+    "Name": "Goffee donut coffee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Buntut gajah",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Es che hun tiau",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch depan kwetiau laopan sinar medan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mbok Tun (graha raya alsut)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Graha raya",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mbok tun",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Graha raya",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakerzin (onokabe)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "IBC",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Home Brew",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "IBC",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ikan Bakar Cianjur",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "IBC",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Justus Steak",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "IBC",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kopi Nako",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "IBC",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Vilo gelato",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "IBC",
+    "Category": "Snack",
+    "Online": null,
+    "Signaturemenu": "Ice cream"
+  },
+  {
+    "Name": "Tale of two coffee (near jhl)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "JHL",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "One oriental chinese food",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Jhl ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi 888",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Kurnia sehat",
+    "Category": "Bfast",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pempek 333",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Kurnia sehat",
+    "Category": "Snack",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Croco Monsieur spoon",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Livingworld",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Din Tai Fung",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Livingworld",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gyu Kaku",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Livingworld",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Song Fa",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Livingworld",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": "Bakut teh"
+  },
+  {
+    "Name": "Instinct coffee (dekat llyod)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "LLoyd",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ototo bakeshop bakery",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "LLoyd",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": "japanese bakery n coffee,  ruko dekat lloyd"
+  },
+  {
+    "Name": "Jx hometown kopitiam",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Lt 2 all fresh",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gado gado omah",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Madisson grande",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Qian Li xiang",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Madisson square",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Lamien , pangsit"
+  },
+  {
+    "Name": "Bear n butter cafe",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Ararasa",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Machinoto coffee",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Delrey biztown",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Apron signature",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Dessert",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Atmospace",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Greenwich",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Atmospace coffee ",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Greenwich",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "2 luckypot",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Madisson square",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi ayam tries (melati mas)",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Melatimas",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Platoncoffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Michael",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Seporsi mie kari",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Michael",
+    "Category": "lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Exquise pattiserie",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Mitra10",
+    "Category": "Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warton (wateg renton)  newton",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Newton",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "After seven",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Okabe",
+    "Category": "Dessert coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "B steak",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pahoa",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ketoprak lurr (sebrang pahoa)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pahoa",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Turning point (sbrg pahoa)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pahoa",
+    "Category": "Bfast coffee",
+    "Online": null,
+    "Signaturemenu": "Pasta coffee"
+  },
+  {
+    "Name": "Zhuasap",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Paramount",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pho minh",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Pasar 8",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto kudus delima dan nasi ayam smrg",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Pasar 8 kios kf 6 (pintu selatan 1)",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Baksomoo21 (ruko ps paramount)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pasar paramount",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi ayam.semarang bu indra",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pasar paramount",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto bang rojak (ruko dekat pas paramo)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pasar paramount",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rumah makan Lie Lie (laksa)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pasar paramount",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Senho kopitiam (pasar8 alsut)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Pasar8",
+    "Category": "Bfast Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso koko gepeng (penabur)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Penabur",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Monkey head (penabur)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Penabur",
+    "Category": "Coffee",
+    "Online": "Yes",
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nikoya bakes",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": "Snack",
+    "Online": null,
+    "Signaturemenu": "Roti"
+  },
+  {
+    "Name": "Koryo jjampong",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai Awun kopitiam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Union",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sandoitchi",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Darlinghurst",
+    "Category": "Lunch coffee",
+    "Online": null,
+    "Signaturemenu": "Prawn katsu sando"
+  },
+  {
+    "Name": "Tento",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Harry's Bondi",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Bondi",
+    "Category": "Lunch Coffee Dinner",
+    "Online": null,
+    "Signaturemenu": "matcha"
+  },
+  {
+    "Name": "Pina Potts Point",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Potts Point",
+    "Category": "Lunch Coffee Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Giuls Italian",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Surry Hills",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Italian"
+  },
+  {
+    "Name": "Youngdabang korean",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Tteokbokki"
+  },
+  {
+    "Name": "ButterBoy cookies",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Manly",
+    "Category": "Dessert",
+    "Online": null,
+    "Signaturemenu": "Cookie Ice Cream"
+  },
+  {
+    "Name": "Norma's Deli",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Manly",
+    "Category": "Bfast, Lunch",
+    "Online": null,
+    "Signaturemenu": "Mortadella Sandwidch, Norma Deli Sandwich"
+  },
+  {
+    "Name": "Air Lab pancake",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Cabramatta",
+    "Category": "Snack Dessert",
+    "Online": null,
+    "Signaturemenu": "Creme Brulle pancake"
+  },
+  {
+    "Name": "Yeodongsik korean",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Lidcombe",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Korean Soup"
+  },
+  {
+    "Name": "PhamishVietnamese",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Darlinghurst",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Edition Roaster",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": "Matcha coffee"
+  },
+  {
+    "Name": "Malay Chinese",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Circular Quay",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": "Laksa"
+  },
+  {
+    "Name": "Laksa King",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Com Ga Ba Nga Hoi An",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Cabramatta",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Chicken Rice"
+  },
+  {
+    "Name": "Kosuke Ramen",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "North Straithfield",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Tsukemen"
+  },
+  {
+    "Name": "Cho Dumpling",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ho Jiak Malaysian",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rickshaw food laksa hotpot",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Burwood emerald sq",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Brazilian Flame bbq",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Zetland",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lode Pies & Patries Bakery",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Surry Hills",
+    "Category": "Snack Dessert",
+    "Online": null,
+    "Signaturemenu": "Lode Pithvier"
+  },
+  {
+    "Name": "Sugarlessconcept",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Surry Hills",
+    "Category": "Snack dessert",
+    "Online": null,
+    "Signaturemenu": "Bagel"
+  },
+  {
+    "Name": "Superemoji",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket",
+    "Category": "Dessert ",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai bu mar (ruko pisa grande)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa Grande Tuna House",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai meli (pisa grande) warteg pork",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa Grande Tuna House",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dermaga Seafood",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 1A",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sate Babi Ko Encung",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 1A",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto Afung",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 1A",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto lokasari",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 1A",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pempek kaka",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 1E",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Olio",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket chipendale",
+    "Category": "Dessert",
+    "Online": null,
+    "Signaturemenu": "Tiramisu"
+  },
+  {
+    "Name": "The rocks cafe",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Circular Quay",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mensho ramen",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Qvb",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi linggarjati",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": "Rumahan",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi Tjokin",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihapit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso cuanki serayu",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": "Warung",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso goreng",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pasir kaliki",
+    "Category": "Snack",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso Laswi",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Laswi gedung creative",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Vibes rumah"
+  },
+  {
+    "Name": "Batagor kingsley",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bawean",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cove espresso",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Manly",
+    "Category": "Wharf",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The bower manly",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Manly",
+    "Category": "Sea view",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Effies at manky boatshed",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Manly",
+    "Category": "Boatshed",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bella vista",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Manly",
+    "Category": "Sea view",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Muyen coffee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko aristoteles",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "J&m kitchen pan mee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Restoran ikan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Suksestama coffee",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Nusaloka",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung ci mey",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Ruko palladium",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": "Ramesan"
+  },
+  {
+    "Name": "Sanuk",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Ruko golf island",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Thai boat noodle "
+  },
+  {
+    "Name": "Uma qita",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Pantjoran",
+    "Category": "Lunch Dinner Dessert",
+    "Online": null,
+    "Signaturemenu": "Bebek betutu, ikan bakar jimbaran"
+  },
+  {
+    "Name": "Scandinavian (ruko aw)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko AW",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ramen Keisuke tonkotsu",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "BUGIS fourseason",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung sebudi coffee n food",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko crystal",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bie sing hoo magelang",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko crystal ",
+    "Category": "Snack Dessert",
+    "Online": null,
+    "Signaturemenu": "Pastry, spikoe"
+  },
+  {
+    "Name": "Calluna cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pasir kaliki",
+    "Category": "Fancy coffee shop",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chanaya resort cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dapoer Pandan wangi",
+    "Approved": "A",
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hello Auntie restaurant ",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Darling square",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "For a friend coffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko fajar senja",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Monday coffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko fajar senja",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Swikeepurwodadibusis (ruko glaze)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko Glaze",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ah heng curry bee hoon",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Hong Lim food centre, Chinatown",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Yangga food chatswood",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Chatswood",
+    "Category": "Korean snack n banchan",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Queic by Olivia",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Teluk ayer near maxwell, Chinatown",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Taste of Jiang nan",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Maxwell food centre, Chinatown",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Din tai fung fried rice"
+  },
+  {
+    "Name": "Hong Kong Day @hkday.chakee",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Novena",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Li Xin teochew fishball noodle",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "China town point",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Li Xin teochew fishball noodle",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Ion Orchard",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tiong Bahru bakery",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Many locations",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Japan Home",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Bugis street",
+    "Category": "Snack supermarket",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "ABC",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Bugis street",
+    "Category": "Snack supermarket",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Spago Bar & Lounge",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Marina bay Hotel",
+    "Category": "Coffee shop",
+    "Online": null,
+    "Signaturemenu": "SG View"
+  },
+  {
+    "Name": "Dimsum sembiln naga",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pascal hypersquare",
+    "Category": "Porky",
+    "Online": null,
+    "Signaturemenu": "Dimsum n nasi campur"
+  },
+  {
+    "Name": "Kongs bbq",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Macquarie shopping centre",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "All u can eat bbq 33$"
+  },
+  {
+    "Name": "Cartel chippendale",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Kensington chippendale",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "29$ tues all u can eat tacos"
+  },
+  {
+    "Name": "Bouclette",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung chef kim (pho)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko jalur sutera timur",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Drunk baker",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Bahureksa",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gormeteria",
+    "Approved": "A",
+    "Area": "Bandung",
+    "Landmark": "Pasteur",
+    "Category": "Fancy coffee shop",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "@BuburKing_s'",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko maxwell",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": "Chef cahaya abadi"
+  },
+  {
+    "Name": "Cahaya abadi bubur king",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko maxwell",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hummingbird ",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Iga naga",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago palais hotel",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Page two",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Randwick",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi AG",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko prominence sebelah JX",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Coarse n Fine",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko renata Belakang pet kingdom",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Fajar & senja cafe",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Ruko victoria lane",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": "Tekwan, pisgor, coffee"
+  },
+  {
+    "Name": "Imago hills",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago atas",
+    "Category": "Snack cooffee view",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Edition roaster",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Haymarket",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Imah babaturan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Kebon bibit taman sari",
+    "Category": "Pedas2",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Karaya coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Punawarman",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Vibes rumah"
+  },
+  {
+    "Name": "Laoban kopitiam",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Karang anyar",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Locupan pan pan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihampelas taman sari",
+    "Category": "Porky",
+    "Online": null,
+    "Signaturemenu": "Locupan babi asap"
+  },
+  {
+    "Name": "Lotek kalipah apo",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Karang anyar",
+    "Category": "Rumahan",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lui cafe and resto",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Bahureksa",
+    "Category": "Fancy coffee shop",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Makmur jaya coffee roaster",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Lengkong",
+    "Category": "Coffee and lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mangkok manis",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihampelas",
+    "Category": "Dessert breakfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Meitian kopitiam",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pascal hypersquare",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Babi kecap , hainam"
+  },
+  {
+    "Name": "Mie cepot",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pascal hypersquare",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mie naripan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mie rica kejaksaan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Miss bee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cimbeuleuit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "My kopi O",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Hay Hotel",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nara park",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cimbeuleuit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Paskal23 italian",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pascal hypersquare",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Prima rasa",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Princheeze",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihapit",
+    "Category": "Dessert",
+    "Online": null,
+    "Signaturemenu": "Lemon cheese cake"
+  },
+  {
+    "Name": "Raja rasa",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Setrasari",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rasa bakery & cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Royal pho",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pascal hypersquare",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Seroja bakery",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihapit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Set n rise",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soeji dining",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": "Dine with view",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto ojolali",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cibadak karang anyar",
+    "Category": "Rumahan",
+    "Online": null,
+    "Signaturemenu": "Soto bandung"
+  },
+  {
+    "Name": "Umanari cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Naripan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung dulu kala",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Kemuning riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "La riviera ristorante",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Sale",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sale",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Sale",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung kopi purnama",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Highway resto café (saumata)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Saumata apt",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung tilu nini",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pasteur",
+    "Category": "Warteg rumahan",
+    "Online": null,
+    "Signaturemenu": "Bal2 pisgor"
+  },
+  {
+    "Name": "Wheels coffee roaster ",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chuan Kee braised duck",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "BuonaVista MRT",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": "Micheline"
+  },
+  {
+    "Name": "Ng ah sio bakut teh",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Rangoon rd",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ce La Vi MarinaBaySands",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Marina Bay Sands",
+    "Category": "Resto with view",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tai Hwa pork noodle",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Orchard",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bedok 85 market",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Bedok",
+    "Category": "Food center",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lau pa sat",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Near chinatown",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": " Aning chinese food (aristoteles scientia)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Scientia",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sonder space",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Ruko northbridge",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "kwasong",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "ruko.vienna",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pesta kebun",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sedjuk bakmi kopi (scientia)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Scientia",
+    "Category": "Bfast lunch coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tanamera (sdc)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SDC",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chinmaya ramen",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sebrang angke",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Ramen"
+  },
+  {
+    "Name": "Yum cha project",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "George street",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Yukado ramen",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sebrang DEC",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Woi supertiam",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Braga",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso Tjap Haji",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Burangrang",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi cepot",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pascal hypersquare",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Jumbo seafood at riverside point",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Clark quay",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Xiu Ji ikan bilis Yong tau fu",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "China town complex",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Swee Guan Hokkien Mee",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Geylang",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dodee king thai",
+    "Approved": null,
+    "Area": "Sydney",
+    "Landmark": "Burwood",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso mawar merona",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Chihampelas",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Seo seo galbi",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Sebrang fajar senja",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mom's bakery",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Progo",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hong Ji claypot bakut teh",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Angmokio",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Outram park Ya hua rou gu cha bakut",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Outram park",
+    "Category": "Food center",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Founder bakut teh",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Balestier",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Han Kee fish soup",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Amoy st china town",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Piao Ji Fish soup",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Maxwell china town",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "88 hk roast",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "China town telok ayer",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso bintang asia",
+    "Approved": "AB",
+    "Area": "Bandung",
+    "Landmark": "Jl sabang",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Bakso versi afung, onde wijen, bihun goreng medan"
+  },
+  {
+    "Name": "Milk n crumbs",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Braga gg kecil pintu merah cupola coffee",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sarae bakes",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Setrasari",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Healthy bread"
+  },
+  {
+    "Name": "Salian space",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Sersan bajuri",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Weiqiang nasgor babi",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pajagalan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Khoe pek Guan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihapit",
+    "Category": "Coffee snack",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "De.u coffee (view)",
+    "Approved": "AA",
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi wiesin (beryl) locupan, bakmi lebar",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sebrang PHG",
+    "Category": "Bfast",
+    "Online": null,
+    "Signaturemenu": "Locupan, mie lebar"
+  },
+  {
+    "Name": "90 gourmet",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chanaya (view)",
+    "Approved": "BA",
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Qaca coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Malabar",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Libero",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bei cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Sudirman ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Byron selective",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Progo",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cafe d pakar",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Circolo",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Sukajadi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pihu tahu susu (beryl sebelah soto bang sawit)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sebrang PHG",
+    "Category": "Snack",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Butler steak",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Skyhouse",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Siomg tong Gai",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Orchard sommerset",
+    "Category": "Steam fish",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "328 katong laksa",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "MARINE PARADE",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hyyge",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Skyhouse",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kiputih ex kalpatree",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cimbeuleuit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wang fu dimsum",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "One north mrt",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lavi taco",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "China town",
+    "Category": "Open 17:30",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pastaro bistro",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chin sin huan",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Lavender jl besar",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "88 hk roast meat",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Lavender",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tjap ayam 38",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Naripan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Treasure toast",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Bugis purvis st",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chop Buntut",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Foek Lam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "La Mian Palace",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kinokimi coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Buah batu",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sun cafe hotel grand pacific",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Bugis",
+    "Category": "Peranakan buffet eatigo 50%",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Leko",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Monsieur Spoon",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ombe Koffie",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hap seng Kee bfast chicken rice",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Gardu jati",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi goreng Gulai",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Kebon Jati",
+    "Category": "Dinner supper",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Makmur jaya coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Taman sari dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Imah babaturan lunch coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pancious (sms)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": "Pasta pancake"
+  },
+  {
+    "Name": "Paris Bouggete (sms)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": "Roti"
+  },
+  {
+    "Name": "Rumah makan tjap ayam",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bug and bear",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Holis",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Merindu canteen",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Gd sate",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bagelicious",
+    "Approved": "AA",
+    "Area": "Bandung",
+    "Landmark": "Riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dough Deli",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cihapit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai anak Binjai",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Jl soka",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lui",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Gd sate riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "People Cafe",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rose flower chinese food",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "ahmad yani",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pho ba ba",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sagoo kitchen (sms)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto bandung m otto",
+    "Approved": "A",
+    "Area": "Bandung",
+    "Landmark": "Otto",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Starbuck",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sushi hiro",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Homeground resto",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cimbeuleuit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sushi Tei",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Union",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Bfast lunch coffee",
+    "Online": null,
+    "Signaturemenu": "Cake,  pasta,  coffee"
+  },
+  {
+    "Name": "Deli bakes",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Eyckman",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": "Garlic bread, tiramisu"
+  },
+  {
+    "Name": "Lamansua",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Taman sari dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Unos cafe with view",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tempat makan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kampung daun",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Theo's wife Luis",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sajian Sambara",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Gd sate",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sop buntut ma emun",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": " Citarum",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bloei",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Patuha, Dekat pandan wangi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The late check out cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Roemah Daoen kedai daoen jeroek",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Ig Kedaidaundjeroek",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kopi Dartoyo",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Naripan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Paul",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SMS",
+    "Category": "Coffee Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso ikan Ahan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "SORRENTO",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Essel korean",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": "Indonesian food",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gaya Braserrie",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Two cents",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Jl lombok",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Courtyard cafe",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "National gallery sg",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pisang keju sultan agung mas didin",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung made",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sorrento near gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rui",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Bahureksa",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto kambing zaenal",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sorrento near gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Masagi coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Home kanpai japenese",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Naripan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hai pin seafood (sorrento)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sorrento Sebrang Tuna House",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Roji ramen (sorrento)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Sorrento Sebrang Tuna House",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Shabu hachi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "South78",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bubur ayam king & chinese food",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Springs Blv",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Madam wong",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Jl situ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Fook kin pork roast bbq",
+    "Approved": null,
+    "Area": "SG",
+    "Landmark": "Killiney rd",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Summerhill.sg french all u can eat",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Baristart coffee sg",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Tras street",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Jiu Gong Ge buffet",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Bugis cube",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Xin yue lai bakut teh malaysian",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Tanah merah",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Por kee",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Tiong bahru",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kok sen",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Outram park",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cremier ice cream",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Tiong bahru",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Meze steak house ",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Naripan",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wukong.bbq",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Paskal",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sinar jaya the breeze bsd",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "The breeze",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Atek",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Toserba",
+    "Category": "Bfast Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Malacca toast",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Toserba",
+    "Category": "Lunch Dinner Dessert Coffee",
+    "Online": null,
+    "Signaturemenu": "Kopitiam roti panggang"
+  },
+  {
+    "Name": "Overtaste (toserba)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Toserba",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": "Indomie and coffee"
+  },
+  {
+    "Name": "Kembang deli",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Riau",
+    "Category": "Coffee, bolo bun, kari bihun",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gomachi buttadon (sorrento)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Tuna house",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hongkong bay (sorrento)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Tuna house",
+    "Category": "Bfast Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Polo bun"
+  },
+  {
+    "Name": "Diversity (pisa grande near gomachi buta)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Tuna house area",
+    "Category": "Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cita waya (menado dekat Tb)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "TunasBangsa",
+    "Category": "Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sudut satu (vanya park bsd)",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Vanya park",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Come xia dimsum (yukata)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Yukata apt",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Old shifu porridge ",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Tiong bahru",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Blond the bakert",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Imam bonjol",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Robinson pasta steak (yukata suites)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "Yukata apt",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakpao ny ong",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Baksobondansolo",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bottega",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Karya columbia cafe",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Sersan bajuri",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Buranchi  (with outdoor area)",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rumah ninin teras social house",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pudak",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Canabeans",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch snack coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Senthi ristorante",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pasir kaliki",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Coarse and fine coffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "El primero  coffeeshop",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hey Beach",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kayu2",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ah yee soon kueh",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Joo chiat",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lembur kuring",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ayam goreng resep nenek",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi maman mi kocok",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Gardu jati",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kembang deli kopitiam",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Riau",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bao pastry",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Paya lebar",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rumah makan wangi seruni ayam gor",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cimanuk",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sop buntut ma emun",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Citarum cimanuk",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Batagor kahuripan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Pasar cihapit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kolak cerita manis",
+    "Approved": "AC",
+    "Area": "Bandung",
+    "Landmark": "Pasar cihapit",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Michael Garden",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch dinner Snack Coffee",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ayam sari rasa 3",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Merdeka",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pagi sore",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pagi sore",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Phos coffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pondok kemangi",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Paskal219",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Paskal",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Raya kolektif (raya kolektif)",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rm kalimantan",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rocco osteria",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dan lao - katsu scramble egg",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Lao pa sat",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ryuko coffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Senti ristorante(tiramisu)",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Surganarasa",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "by Jo thai",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Paskal",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The woofgang",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Umatis (balinese) huge with outdoor",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kakinoki ramen",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "The barn",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pho ticc",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "The barn bsd",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Big brew coffee bbc ",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "The loop",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Strada coffee",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Upperwest bsd",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kampung kecil",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Pik 2",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Steakloin",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Ruko crown golf",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dreamville",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Pik 2",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Xiao xiang hunan",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Colt coffee",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Topui kia kopitiam",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Notch cafe and resto",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cempaka baru padang jambi",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ayam goreng pasundan (ayam kukus)",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Lembang",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dreezel coffee",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Dago dan sersan bajuri",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung Bu Kris",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": "Ayam goreng"
+  },
+  {
+    "Name": "Moro Moro swikee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ah jie hokkien mee",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Ang mo kio",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Banh mi saigon",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Ang mo kio",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Por kee eating house 1996",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Tiong bahru",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Burger labo",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Henderson industrial park",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ms Durian",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Jalan besar",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pattiserie G",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Millenial walk",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "@Pindangiganybong",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": "Yes",
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lao Fu Zi fried kwetiao",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Old airport road food center ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nam sing Hokkien Mee",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Old airport road food center ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Song kee fish porridge beehoon",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Newton food centre ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ji ji noodle house",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Hong lim food center ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ayam penyet Bucin",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi asui aming",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi bucin",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmiesibabeh",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rm Warung seruni ayam goreng",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Cimanuk",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakso gepeng mas didi (klp sawit)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ejji coffee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Encim sukaria nasi uduk",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hao hao dimsum",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kdrt kedai pak erte (nasi ulam)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast Lunch",
+    "Online": null,
+    "Signaturemenu": "Nasi ulam buka jam 7"
+  },
+  {
+    "Name": "Kedai kopilo",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Marga Lie (go food)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": "Yes",
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi uduk ci chen2",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ncek legenda bakmi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Bfast Lunch",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sate babi 736",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Seporsi mie kari",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Lunch Dinner",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Srasi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wooden 99 seafood (arcadia)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi Things",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Siomay sewan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Swikee bu tatik",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Perusahaan tahu priangan",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "Braga",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Keuken van elsje",
+    "Approved": null,
+    "Area": "Bandung",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "New station snack bar",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Far east plaza",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Krapow Thai",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Uncle Lui kopitiam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": "Kaya toast,  mie belacan, claypot",
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The lawrence",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Two stories cafe",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sky kingdom by foek lam",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Chef kim pho",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai kopi King",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Niv coffee",
+    "Approved": null,
+    "Area": "Alsut",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Standard bakery korea",
+    "Approved": null,
+    "Area": "Sg",
+    "Landmark": "Sentosa",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kopi titik koma",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wale kawanua menado",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "1a sebrang swikee",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tek tek 26 dapur bora",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "7c",
+    "Category": "Lunch dinner",
+    "Online": null,
+    "Signaturemenu": "Nasgor"
+  },
+  {
+    "Name": "Soto semarang kopro",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "7c",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi uduk ayam goreng ibu Liem",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Alogio",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai ko along nasi uduk",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Acong chinese food",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warung soto anak medan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Jalan mawar bakmi n kopi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto tangkar dan sate kuah bang cecep",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Cerita bakmi 24 jam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ayam rebus kencana",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wan mee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Dapur bu de",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakbi",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Les glacee gelato n salt bread",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pondok medan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto betawi kang ebet",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Anniva sebrang potteria",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Amato dessert bar",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Beryl",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi nikmat rasa",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Boulevard atek",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ruach coffee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Crystal",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Paon ikan menado bali",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Downtown drive",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai kopi petaling open 21 hr ",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Downtown drive",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto doeloe",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Downtown drive",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Goobgojigo korean",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Golden 8 b steak",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Red bear korean",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kedai soto peranakan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Yakiniku ten all u can eat 275",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kari kami",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sukiyaki rin",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nagaru ramen",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Goldfinch blkg haka dimsum",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rose garden hunan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Hampton",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Surken 24 hrs",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Hampton",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Sovu coffee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Hampton",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Fur himmel",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Hampton",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bare minimum  coffee and food",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Hampton ruko",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Balkan shawarna",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "M town apt",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ang patisserie ",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Madisson grande",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Coffee coff",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Capten nelayan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Naked papa",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Primocasa",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Red dragon ramen",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Pik1",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gaise cofee and resto",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bun and banh vietnamese",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hoka cafe",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Homme coffe n resto",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Wakanda warung 24 jam",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi singapur",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kwetiau laopan (Bebek asap)",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Pat ship jit bakso laksa",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bread mood- salt bread",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto tangkar sate kuah",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mr yao taiwan food",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi lemak selera lins",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto oseng abing",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Si bule focaccia ",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bligung bigul",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi bali cempaka",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore butanoya",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Butanoya",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore sebrang k3mart",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Aruku coffee",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore sebrang k3mart",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Depot palapa",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Maggiore sebrang noolstrala",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kobobun roti",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Melody",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Puff out",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pasar paramount",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bootleg burger",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pasar paramount",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nikoya bakes roti",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Bakmi houmin",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nyuk nyan baso goreng",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Madame pho",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande gomachi",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kansha japanese",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Pisa grande marga Lie",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Puffs out",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ps paramount",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Nasi goreng dapur bora",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 7cs",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Warbi pak uno",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko 7cs ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Takaramono",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Ruko crystal",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Lontong mailini 999 dan nasi medan",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Stella marris",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Obihiro nikudon",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Tuna house",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The caffeine theory ",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Verona",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "The good bagel",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Verona",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "For a friend gs",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Verona near dec bp gas",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Mie aling 99",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "Villa melati mas close 3 pm , close mon",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Essel korean",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Gado gado AA",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tore tore teishoku",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Spaghetto",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Soto betawi bunjamin",
+    "Approved": null,
+    "Area": "GS",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Tumbler coffee",
+    "Approved": null,
+    "Area": "BSD",
+    "Landmark": "Sebrang ice bsd",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Rindu rasa",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Ruko garden pik",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "DaiLou dimsum resto",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Kao house shezuan",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Rukan beach house",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Unyang kordai thai michelin",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "T2 taiwanese tea uyen misoa",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Pagi sore ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Huat kee kopitiam",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Suite and share",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Ruko beach theme park",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Hello Seoul",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Central market ",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Spaghetto",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "3 saudara medan ciak",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Ruko osaka",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Long chuan foo heng",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Patung naga",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "May star",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "IDD",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  },
+  {
+    "Name": "Ahwa signature ",
+    "Approved": null,
+    "Area": "PIK",
+    "Landmark": "Batavia pik",
+    "Category": null,
+    "Online": null,
+    "Signaturemenu": null
+  }
+]
