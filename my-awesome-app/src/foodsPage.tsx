@@ -74,25 +74,25 @@ export default function FoodsPage() {
         })
 
   const chip = (active: boolean) =>
-    `shrink-0 rounded-full border px-3.5 py-1.5 text-sm font-medium transition-colors ${
+    `shrink-0 rounded-full border px-4 py-2.5 text-sm font-medium transition-colors ${
       active ? 'border-ink bg-ink text-canvas' : 'border-line text-muted hover:border-muted hover:text-ink'
     }`
 
   return (
-    <div className="min-h-screen">
-      <header className="sticky top-0 z-10 border-b border-line bg-canvas/80 backdrop-blur-xl">
-        <div className="mx-auto max-w-6xl px-6 py-5">
+    <div className="min-h-dvh">
+      <header className="border-b border-line bg-canvas sm:sticky sm:top-0 sm:z-10 sm:bg-canvas/80 sm:backdrop-blur-xl">
+        <div className="mx-auto max-w-6xl px-5 py-4 sm:px-6 sm:py-5">
           <button
             type="button"
             onClick={() => navigate('/')}
-            className="mb-3 inline-flex items-center gap-1.5 text-sm font-medium text-muted transition-colors hover:text-ink"
+            className="-ml-1 mb-2 inline-flex min-h-10 items-center gap-1.5 pr-3 text-sm font-medium text-muted transition-colors hover:text-ink"
           >
             <ArrowLeft className="size-4" /> All areas
           </button>
 
           <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-3">
             <div>
-              <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">
+              <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
                 {areas.length === 1 ? areas[0][0] : 'Places to eat'}
               </h1>
               <p className="mt-1 text-sm text-muted">
@@ -101,12 +101,12 @@ export default function FoodsPage() {
               </p>
             </div>
 
-            <div className="flex items-center gap-2 text-sm">
+            <div className="flex items-center gap-2 text-base sm:text-sm">
               <select
                 aria-label="Sort by"
                 value={sortKey}
                 onChange={e => setSortKey(e.target.value as SortKey)}
-                className="rounded-full border border-line bg-surface px-4 py-2 font-medium focus:border-accent focus:outline-none"
+                className="h-11 rounded-full border border-line bg-surface px-4 font-medium focus:border-accent focus:outline-none"
               >
                 {SORT_OPTIONS.map(o => (
                   <option key={o.key} value={o.key}>
@@ -119,7 +119,7 @@ export default function FoodsPage() {
                 disabled={sortKey === 'default'}
                 onClick={() => setSortDesc(d => !d)}
                 aria-label={sortDesc ? 'Descending, switch to ascending' : 'Ascending, switch to descending'}
-                className="flex size-9 items-center justify-center rounded-full border border-line bg-surface text-muted transition-colors hover:text-ink disabled:cursor-not-allowed disabled:opacity-40"
+                className="flex size-11 items-center justify-center rounded-full border border-line bg-surface text-muted transition-colors hover:text-ink disabled:cursor-not-allowed disabled:opacity-40"
               >
                 {sortDesc ? <ArrowDown className="size-4" /> : <ArrowUp className="size-4" />}
               </button>
@@ -132,13 +132,13 @@ export default function FoodsPage() {
               type="search"
               value={query}
               onChange={e => setQuery(e.target.value)}
-              placeholder="Search name, landmark, category or menu"
-              className="w-full rounded-full border border-line bg-surface py-2.5 pl-11 pr-4 text-sm placeholder:text-muted focus:border-accent focus:outline-none"
+              placeholder="Search places, menu, landmark"
+              className="h-12 w-full rounded-full border border-line bg-surface pl-11 pr-4 text-base placeholder:text-muted focus:border-accent focus:outline-none"
             />
           </div>
 
           {areas.length > 1 && (
-            <div className="-mx-6 mt-4 flex gap-2 overflow-x-auto px-6 pb-1">
+            <div className="-mx-5 mt-4 flex gap-2 overflow-x-auto px-5 pb-1 sm:-mx-6 sm:px-6">
               {[[null, inLocations.length] as const, ...areas].map(([name, count]) => (
                 <button key={name ?? 'all'} type="button" onClick={() => setArea(name)} className={chip(area === name)}>
                   {name ?? 'All'} <span className="opacity-60">{count}</span>
@@ -149,7 +149,7 @@ export default function FoodsPage() {
         </div>
       </header>
 
-      <main className="mx-auto max-w-6xl px-6 py-8">
+      <main className="mx-auto max-w-6xl px-5 py-6 sm:px-6 sm:py-8">
         {foods.length === 0 ? (
           <div className="py-24 text-center text-muted">
             {inLocations.length === 0 ? 'No food found in these locations.' : 'Nothing matches your search.'}
@@ -163,7 +163,7 @@ export default function FoodsPage() {
                 style={{ '--i': Math.min(index, 12) } as React.CSSProperties}
               >
                 <p className="text-xs font-medium uppercase tracking-wider text-accent">{areaLabel(item.Area)}</p>
-                <h2 className="mt-1.5 text-lg font-semibold leading-snug">{item.Name.trim()}</h2>
+                <h2 className="mt-1.5 text-lg font-bold leading-snug">{item.Name.trim()}</h2>
 
                 {item.Landmark?.trim() && (
                   <p className="mt-1 flex items-center gap-1.5 text-sm text-muted">
@@ -198,7 +198,7 @@ export default function FoodsPage() {
                   href={googleUrl(item)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 self-start text-sm font-medium text-ink underline-offset-4 transition-colors group-hover:text-accent hover:underline"
+                  className="inline-flex min-h-11 items-center gap-1 self-start text-sm font-semibold text-ink underline-offset-4 transition-colors group-hover:text-accent hover:underline"
                 >
                   View details <ArrowUpRight className="size-4" />
                 </a>
