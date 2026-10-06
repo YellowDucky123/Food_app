@@ -1,45 +1,22 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import { useEffect, useState } from 'react';
-import { createClient } from '@supabase/supabase-js'
-import Loader from './Loading'; // Adjust path as needed
+import foodsData from './data/foods.json';
 
-const supabase = createClient(
-  import.meta.env.VITE_SUPABASE_URL,
-  import.meta.env.VITE_SUPABASE_ANON_KEY
-)
+type Food = {
+  Name: string;
+  Area: string;
+  Landmark?: string;
+  Category?: string;
+};
+
+const allFoods = foodsData as Food[];
 
 export default function FoodsPage() {	
   const { locations } = useParams();
-  const [foods, setFoods] = useState<any[]>([]); // Store your results here
-  const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 
-  useEffect(() => {
-    const fetchFoods = async () => {
-      setLoading(true);
-      // Convert the URL string back into an array for the Edge Function
-      const locationArray = locations ? locations.split(',') : [];
-
-      const { data, error } = await supabase.functions.invoke('bright-service', {
-        body: { locations: locationArray },
-      });
-
-      if (!error && data) {
-        setFoods(data);
-      }
-      setLoading(false);
-    };
-
-    fetchFoods();
-  }, [locations]);
-
-  if (loading) return (
-  <div className="flex h-screen w-full items-center justify-center bg-slate-950">
-      <div className="bg-white p-12 rounded-2xl shadow-2xl flex flex-col items-center">
-        <Loader />
-      </div>
-  </div>
-  );
+  // Convert the URL string back into an array and filter the bundled data
+  const locationArray = locations ? locations.split(',') : [];
+  const foods = allFoods.filter(food => locationArray.includes(food.Area));
 
   return (
     <div className="min-h-screen bg-slate-950 p-8 text-white">
