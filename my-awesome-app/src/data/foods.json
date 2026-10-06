@@ -51,7 +51,7 @@
     "Landmark": "Aeon",
     "Category": null,
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "All-you-can-eat Brazilian BBQ, Picanha"
   },
   {
     "Name": "Pho ba ba (aeon)",
@@ -60,7 +60,7 @@
     "Landmark": "Aeon",
     "Category": null,
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Pho Duoi Bo, Com Tam Dui Ga Nuong"
   },
   {
     "Name": "Angke",
@@ -240,7 +240,7 @@
     "Landmark": "Concourse ",
     "Category": null,
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Otoro Nabe, Omakase Kaisen-Don, Sashimi Moriawase"
   },
   {
     "Name": "Nihewo kopitiam",
@@ -258,7 +258,7 @@
     "Landmark": "DEC area",
     "Category": "Lunch dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Krabby Baby Ramen, Signature Ramen, Black Garlic Ramen"
   },
   {
     "Name": "Balboni pizza (below cut n grill)",
@@ -267,7 +267,7 @@
     "Landmark": "Flav bliss",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Linguine ai Gamberi, Spicy Hawaiian Tuna Pizza"
   },
   {
     "Name": "Cut n grill",
@@ -276,7 +276,7 @@
     "Landmark": "Flav bliss",
     "Category": "Lunch dinner Snack Coffee",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Tomahawk Steak, Black Angus Sirloin, Bone Marrow"
   },
   {
     "Name": "Dec café",
@@ -348,7 +348,7 @@
     "Landmark": "Goldfinch",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Wicked Ribs, Bebek Goreng"
   },
   {
     "Name": "Kanton qiu nyuk (goldfinch)",
@@ -384,7 +384,7 @@
     "Landmark": "Goldfinch",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Basil crispy pork rice, Tom yum, Pad thai"
   },
   {
     "Name": "Noolstrala (goldfinch)",
@@ -474,7 +474,7 @@
     "Landmark": "IBC",
     "Category": "Snack coffee",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Strawberry Shortcake"
   },
   {
     "Name": "Home Brew",
@@ -501,7 +501,7 @@
     "Landmark": "IBC",
     "Category": "Lunch dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "US Prime Porterhouse, Bone-In Rib Eye, Dry Aged Steak"
   },
   {
     "Name": "Kopi Nako",
@@ -573,7 +573,7 @@
     "Landmark": "Livingworld",
     "Category": "Lunch dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Xiaolongbao, Dan Dan Noodles, Shrimp & Pork Wonton Soup"
   },
   {
     "Name": "Gyu Kaku",
@@ -582,7 +582,7 @@
     "Landmark": "Livingworld",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Japanese BBQ (yakiniku)"
   },
   {
     "Name": "Song Fa",
@@ -933,7 +933,7 @@
     "Landmark": "Potts Point",
     "Category": "Lunch Coffee Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Bacon & egg roll, Chilli scramble, XO tofu scramble"
   },
   {
     "Name": "Giuls Italian",
@@ -996,7 +996,7 @@
     "Landmark": "Darlinghurst",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Banh xeo (duck & prawn pancake), Beef la lot, Tamarind prawn"
   },
   {
     "Name": "Edition Roaster",
@@ -1050,7 +1050,7 @@
     "Landmark": "Haymarket",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Deep-fried pork chop bento, Stewed pork belly"
   },
   {
     "Name": "Ho Jiak Malaysian",
@@ -1059,7 +1059,7 @@
     "Landmark": "Haymarket",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Laksa, Indomie goreng, Fried Kapitan chicken, Char kway teow"
   },
   {
     "Name": "Rickshaw food laksa hotpot",
@@ -1131,7 +1131,7 @@
     "Landmark": "Ruko 1A",
     "Category": "Lunch Dinner",
     "Online": null,
-    "Signaturemenu": null
+    "Signaturemenu": "Kepiting Soka Telur Asin, Cumi Goreng Tepung, Baronang Bakar"
   },
   {
     "Name": "Sate Babi Ko Encung",

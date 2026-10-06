@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { ArrowRight, Check, MapPin, UtensilsCrossed } from 'lucide-react'
+import { ArrowRight, Check, UtensilsCrossed } from 'lucide-react'
 import foodsData from './data/foods.json'
 import { LOCATIONS } from './locations'
 
@@ -18,81 +18,97 @@ export default function Dashboard() {
       return next
     })
 
+  const selected = LOCATIONS.filter(l => picked.has(l.id))
+  const total = selected.reduce((sum, l) => sum + countFor(l.db_name), 0)
+  const allPicked = picked.size === LOCATIONS.length
+
   const search = () => {
-    const selected = LOCATIONS.filter(l => picked.has(l.id)).flatMap(l => l.db_name)
-    if (selected.length > 0) navigate(`/foods/${selected}`)
+    if (selected.length > 0) navigate(`/foods/${selected.flatMap(l => l.db_name)}`)
   }
 
   return (
-    <main className="relative min-h-screen overflow-hidden bg-slate-950 px-4 py-10 text-slate-100 sm:flex sm:items-center sm:justify-center">
-      <div className="pointer-events-none absolute -top-40 left-1/2 h-96 w-[40rem] -translate-x-1/2 rounded-full bg-amber-500/10 blur-3xl" />
+    <main className="mx-auto min-h-screen max-w-2xl px-6 pb-32 pt-16 sm:pt-24">
+      <header className="fade-up">
+        <div className="mb-8 flex items-center gap-2 text-sm font-medium text-muted">
+          <UtensilsCrossed className="size-4 text-accent" />
+          Food App
+        </div>
+        <h1 className="text-4xl font-semibold leading-[1.1] tracking-tight sm:text-5xl">
+          Where are you
+          <br />
+          eating today?
+        </h1>
+        <p className="mt-4 text-lg text-muted">Pick one or more areas to see what's nearby.</p>
+      </header>
 
-      <div className="relative mx-auto w-full max-w-lg">
-        <header className="mb-8 text-center">
-          <div className="mx-auto mb-4 flex size-14 items-center justify-center rounded-2xl bg-gradient-to-br from-amber-400 to-orange-600 shadow-lg shadow-orange-900/40">
-            <UtensilsCrossed className="size-7 text-white" />
-          </div>
-          <h1 className="text-4xl font-extrabold tracking-tight text-white">Food App</h1>
-          <p className="mt-2 text-slate-400">Where are you hungry? Pick one or more areas.</p>
-        </header>
+      <section className="mt-12">
+        <div className="fade-up mb-3 flex items-center justify-between text-sm" style={{ '--i': 2 } as React.CSSProperties}>
+          <span className="font-medium text-muted">Areas</span>
+          <button
+            type="button"
+            onClick={() => setPicked(allPicked ? new Set() : new Set(LOCATIONS.map(l => l.id)))}
+            className="font-medium text-accent hover:underline"
+          >
+            {allPicked ? 'Clear all' : 'Select all'}
+          </button>
+        </div>
 
-        <section className="rounded-3xl border border-slate-800 bg-slate-900/70 p-4 shadow-2xl backdrop-blur sm:p-6">
-          <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-            {LOCATIONS.map(item => {
-              const isPicked = picked.has(item.id)
-              return (
-                <li key={item.id}>
-                  <button
-                    type="button"
-                    aria-pressed={isPicked}
-                    onClick={() => toggle(item.id)}
-                    className={`group flex w-full items-center gap-3 rounded-2xl border p-4 text-left transition-all active:scale-[0.98] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-400 ${
-                      isPicked
-                        ? 'border-amber-400/70 bg-amber-400/10 shadow-lg shadow-amber-900/20'
-                        : 'border-slate-800 bg-slate-800/40 hover:border-slate-600 hover:bg-slate-800'
-                    }`}
-                  >
-                    <span
-                      className={`flex size-10 shrink-0 items-center justify-center rounded-xl transition-colors ${
-                        isPicked ? 'bg-amber-400 text-slate-950' : 'bg-slate-700/60 text-slate-400 group-hover:text-slate-200'
-                      }`}
-                    >
-                      {isPicked ? <Check className="size-5" strokeWidth={3} /> : <MapPin className="size-5" />}
-                    </span>
-                    <span className="min-w-0">
-                      <span className="block truncate font-semibold text-white">{item.location}</span>
-                      <span className="block text-sm text-slate-400">{countFor(item.db_name)} places</span>
-                    </span>
-                  </button>
-                </li>
-              )
-            })}
-          </ul>
-
-          <div className="mt-6 flex items-center justify-between gap-4 border-t border-slate-800 pt-5">
-            <div className="text-sm text-slate-400">
-              {picked.size === 0 ? 'Nothing selected' : `${picked.size} selected`}
-              {picked.size > 0 && (
+        <ul
+          className="fade-up divide-y divide-line overflow-hidden rounded-2xl border border-line bg-surface"
+          style={{ '--i': 3 } as React.CSSProperties}
+        >
+          {LOCATIONS.map(item => {
+            const isPicked = picked.has(item.id)
+            return (
+              <li key={item.id}>
                 <button
                   type="button"
-                  onClick={() => setPicked(new Set())}
-                  className="ml-3 text-amber-400 underline-offset-2 hover:underline"
+                  aria-pressed={isPicked}
+                  onClick={() => toggle(item.id)}
+                  className={`flex w-full items-center justify-between gap-4 px-5 py-4 text-left transition-colors focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-accent ${
+                    isPicked ? 'bg-accent/[0.07]' : 'hover:bg-raised'
+                  }`}
                 >
-                  Clear
+                  <span>
+                    <span className="block text-lg font-medium">{item.location}</span>
+                    <span className="block text-sm text-muted">{countFor(item.db_name)} places</span>
+                  </span>
+                  <span
+                    className={`flex size-6 shrink-0 items-center justify-center rounded-full border transition-all ${
+                      isPicked ? 'border-accent bg-accent text-accent-ink' : 'border-line text-transparent'
+                    }`}
+                  >
+                    <Check className="size-3.5" strokeWidth={3} />
+                  </span>
                 </button>
-              )}
-            </div>
-            <button
-              type="button"
-              disabled={picked.size === 0}
-              onClick={search}
-              className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-amber-400 to-orange-500 px-6 py-3 font-bold text-slate-950 shadow-lg shadow-orange-900/30 transition-all hover:brightness-110 active:scale-[0.97] disabled:cursor-not-allowed disabled:from-slate-700 disabled:to-slate-700 disabled:text-slate-500 disabled:shadow-none"
-            >
-              Find food
-              <ArrowRight className="size-5" />
-            </button>
-          </div>
-        </section>
+              </li>
+            )
+          })}
+        </ul>
+      </section>
+
+      <div className="fixed inset-x-0 bottom-0 border-t border-line bg-canvas/80 backdrop-blur-xl">
+        <div className="mx-auto flex max-w-2xl items-center justify-between gap-4 px-6 py-4">
+          <p className="text-sm text-muted">
+            {picked.size === 0 ? (
+              'Nothing selected'
+            ) : (
+              <>
+                <span className="font-semibold text-ink">{picked.size}</span> {picked.size === 1 ? 'area' : 'areas'} ·{' '}
+                <span className="font-semibold text-ink">{total}</span> places
+              </>
+            )}
+          </p>
+          <button
+            type="button"
+            disabled={picked.size === 0}
+            onClick={search}
+            className="inline-flex items-center gap-2 rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-accent-ink transition-all hover:brightness-110 active:scale-95 disabled:cursor-not-allowed disabled:bg-raised disabled:text-muted disabled:hover:brightness-100"
+          >
+            Show places
+            <ArrowRight className="size-4" />
+          </button>
+        </div>
       </div>
     </main>
   )
